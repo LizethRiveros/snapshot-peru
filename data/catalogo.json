@@ -1,0 +1,218 @@
+[
+ {
+  "slug": "tipo-cambio-interbancario-venta",
+  "code": "PD04638PD",
+  "desc": "Tipo de cambio interbancario venta (S/ por US$), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "3.43914285714286"
+ },
+ {
+  "slug": "inflacion-lima-12m",
+  "code": "PN01273PM",
+  "desc": "Inflacion Lima Metropolitana, variacion % 12 meses, mensual",
+  "filas": 441,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "4.54865469481509"
+ },
+ {
+  "slug": "tasa-referencia-politica-monetaria",
+  "code": "PD12301MD",
+  "desc": "Tasa de referencia de la politica monetaria, diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-15",
+  "ultimo_valor": "4.25"
+ },
+ {
+  "slug": "reservas-internacionales-netas",
+  "code": "PD04650MD",
+  "desc": "Reservas internacionales netas (millones US$), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "96173.00737678"
+ },
+ {
+  "slug": "pbi-variacion-interanual",
+  "code": "PN01728AM",
+  "desc": "PBI, variacion % interanual, mensual",
+  "filas": 379,
+  "ultima_fecha": "2026-07",
+  "ultimo_valor": "3.5592604174106"
+ },
+ {
+  "slug": "cobre-londres",
+  "code": "PD04701XD",
+  "desc": "Cobre, Londres (cUS$ por libra), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "669.094111618016"
+ },
+ {
+  "slug": "oro-londres",
+  "code": "PD04704XD",
+  "desc": "Oro, Londres (US$ por onza troy), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "4105.37"
+ },
+ {
+  "slug": "plata-harman",
+  "code": "PD04702XD",
+  "desc": "Plata, H. Harman (US$ por onza troy), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "55.6375"
+ },
+ {
+  "slug": "zinc-londres",
+  "code": "PD04703XD",
+  "desc": "Zinc, Londres (cUS$ por libra), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "172.501178299167"
+ },
+ {
+  "slug": "tipo-cambio-euro-venta",
+  "code": "PD04648PD",
+  "desc": "Tipo de cambio del euro, venta (S/ por euro), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "3.889"
+ },
+ {
+  "slug": "tasa-interbancaria-soles",
+  "code": "PD04692MD",
+  "desc": "Tasa de interes interbancaria en soles (%), diario",
+  "filas": 9599,
+  "ultima_fecha": "2026-10-14",
+  "ultimo_valor": "4.25"
+ },
+ {
+  "slug": "desempleo-lima",
+  "code": "PN38063GM",
+  "desc": "Tasa de desempleo, Lima Metropolitana (%, promedio movil 3 meses), mensual",
+  "filas": 304,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "4.80377918575145"
+ },
+ {
+  "slug": "exportaciones-fob",
+  "code": "PN38714BM",
+  "desc": "Exportaciones, valor FOB (millones US$), mensual",
+  "filas": 368,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "10815.4041778185"
+ },
+ {
+  "slug": "importaciones-fob",
+  "code": "PN38718BM",
+  "desc": "Importaciones, valor FOB (millones US$), mensual",
+  "filas": 368,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "6101.41347990082"
+ },
+ {
+  "slug": "ipc-indice-dic2021",
+  "code": "PN38705PM",
+  "desc": "IPC Lima Metropolitana, indice (Dic.2021=100), mensual. Fuente original: INEI",
+  "filas": 429,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "120.85795"
+ },
+ {
+  "slug": "ipc-var-mensual",
+  "code": "PN01271PM",
+  "desc": "IPC Lima Metropolitana, variacion % mensual. Fuente original: INEI",
+  "filas": 441,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "0.117298939892575"
+ },
+ {
+  "slug": "ipc-var-acumulada",
+  "code": "PN01272PM",
+  "desc": "IPC Lima Metropolitana, variacion % acumulada en el anio. Fuente original: INEI",
+  "filas": 441,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "4.28254681695769"
+ },
+ {
+  "slug": "ipc-subyacente-indice",
+  "code": "PN38708PM",
+  "desc": "IPC subyacente, indice (Dic.2021=100), mensual. Fuente original: INEI",
+  "filas": 417,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "119.320978247116"
+ },
+ {
+  "slug": "ipc-subyacente-var-12m",
+  "code": "PN01279PM",
+  "desc": "IPC subyacente, variacion % 12 meses. Fuente original: INEI",
+  "filas": 405,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "2.84823369707569"
+ },
+ {
+  "slug": "ipc-alimentos-bebidas-var-mensual",
+  "code": "PN01313PM",
+  "desc": "IPC Alimentos y Bebidas, variacion % mensual. Fuente original: INEI",
+  "filas": 416,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "0.055133902637547"
+ },
+ {
+  "slug": "ipm-var-12m",
+  "code": "PN01287PM",
+  "desc": "Indice de Precios al por Mayor, variacion % 12 meses. Fuente original: INEI",
+  "filas": 405,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "4.88231423013762"
+ },
+ {
+  "slug": "ipm-var-mensual",
+  "code": "PN01286PM",
+  "desc": "Indice de Precios al por Mayor, variacion % mensual. Fuente original: INEI",
+  "filas": 416,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "0.573854644253253"
+ },
+ {
+  "slug": "pea-lima-miles",
+  "code": "PN38050GM",
+  "desc": "PEA Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI",
+  "filas": 304,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "6265.9"
+ },
+ {
+  "slug": "pea-ocupada-lima-miles",
+  "code": "PN38051GM",
+  "desc": "PEA ocupada Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI",
+  "filas": 304,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "5964.9"
+ },
+ {
+  "slug": "ingreso-mensual-lima",
+  "code": "PN38070GM",
+  "desc": "Ingreso mensual Lima Metropolitana (promedio movil 3 meses). Fuente original: INEI. Verificar unidad en BCRPData",
+  "filas": 304,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "2308.4"
+ },
+ {
+  "slug": "precio-diesel-indice-real",
+  "code": "PN01441PM",
+  "desc": "Indice real de precio de petroleo diesel (2010=100). Verificar fuente original",
+  "filas": 201,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "137.941184240462"
+ },
+ {
+  "slug": "tarifa-electrica-residencial-indice-real",
+  "code": "PN01444PM",
+  "desc": "Indice real de tarifa electrica residencial (2010=100). Verificar fuente original",
+  "filas": 201,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "112.390744764617"
+ }
+]

@@ -1,0 +1,139 @@
+{
+  "bcrp": [
+    {
+      "slug": "tipo-cambio-interbancario-venta",
+      "code": "PD04638PD",
+      "desc": "Tipo de cambio interbancario venta (S/ por US$), diario"
+    },
+    {
+      "slug": "inflacion-lima-12m",
+      "code": "PN01273PM",
+      "desc": "Inflacion Lima Metropolitana, variacion % 12 meses, mensual"
+    },
+    {
+      "slug": "tasa-referencia-politica-monetaria",
+      "code": "PD12301MD",
+      "desc": "Tasa de referencia de la politica monetaria, diario"
+    },
+    {
+      "slug": "reservas-internacionales-netas",
+      "code": "PD04650MD",
+      "desc": "Reservas internacionales netas (millones US$), diario"
+    },
+    {
+      "slug": "pbi-variacion-interanual",
+      "code": "PN01728AM",
+      "desc": "PBI, variacion % interanual, mensual"
+    },
+    {
+      "slug": "cobre-londres",
+      "code": "PD04701XD",
+      "desc": "Cobre, Londres (cUS$ por libra), diario"
+    },
+    {
+      "slug": "oro-londres",
+      "code": "PD04704XD",
+      "desc": "Oro, Londres (US$ por onza troy), diario"
+    },
+    {
+      "slug": "plata-harman",
+      "code": "PD04702XD",
+      "desc": "Plata, H. Harman (US$ por onza troy), diario"
+    },
+    {
+      "slug": "zinc-londres",
+      "code": "PD04703XD",
+      "desc": "Zinc, Londres (cUS$ por libra), diario"
+    },
+    {
+      "slug": "tipo-cambio-euro-venta",
+      "code": "PD04648PD",
+      "desc": "Tipo de cambio del euro, venta (S/ por euro), diario"
+    },
+    {
+      "slug": "tasa-interbancaria-soles",
+      "code": "PD04692MD",
+      "desc": "Tasa de interes interbancaria en soles (%), diario"
+    },
+    {
+      "slug": "desempleo-lima",
+      "code": "PN38063GM",
+      "desc": "Tasa de desempleo, Lima Metropolitana (%, promedio movil 3 meses), mensual"
+    },
+    {
+      "slug": "exportaciones-fob",
+      "code": "PN38714BM",
+      "desc": "Exportaciones, valor FOB (millones US$), mensual"
+    },
+    {
+      "slug": "importaciones-fob",
+      "code": "PN38718BM",
+      "desc": "Importaciones, valor FOB (millones US$), mensual"
+    },
+    {
+      "slug": "ipc-indice-dic2021",
+      "code": "PN38705PM",
+      "desc": "IPC Lima Metropolitana, indice (Dic.2021=100), mensual. Fuente original: INEI"
+    },
+    {
+      "slug": "ipc-var-mensual",
+      "code": "PN01271PM",
+      "desc": "IPC Lima Metropolitana, variacion % mensual. Fuente original: INEI"
+    },
+    {
+      "slug": "ipc-var-acumulada",
+      "code": "PN01272PM",
+      "desc": "IPC Lima Metropolitana, variacion % acumulada en el anio. Fuente original: INEI"
+    },
+    {
+      "slug": "ipc-subyacente-indice",
+      "code": "PN38708PM",
+      "desc": "IPC subyacente, indice (Dic.2021=100), mensual. Fuente original: INEI"
+    },
+    {
+      "slug": "ipc-subyacente-var-12m",
+      "code": "PN01279PM",
+      "desc": "IPC subyacente, variacion % 12 meses. Fuente original: INEI"
+    },
+    {
+      "slug": "ipc-alimentos-bebidas-var-mensual",
+      "code": "PN01313PM",
+      "desc": "IPC Alimentos y Bebidas, variacion % mensual. Fuente original: INEI"
+    },
+    {
+      "slug": "ipm-var-12m",
+      "code": "PN01287PM",
+      "desc": "Indice de Precios al por Mayor, variacion % 12 meses. Fuente original: INEI"
+    },
+    {
+      "slug": "ipm-var-mensual",
+      "code": "PN01286PM",
+      "desc": "Indice de Precios al por Mayor, variacion % mensual. Fuente original: INEI"
+    },
+    {
+      "slug": "pea-lima-miles",
+      "code": "PN38050GM",
+      "desc": "PEA Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI"
+    },
+    {
+      "slug": "pea-ocupada-lima-miles",
+      "code": "PN38051GM",
+      "desc": "PEA ocupada Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI"
+    },
+    {
+      "slug": "ingreso-mensual-lima",
+      "code": "PN38070GM",
+      "desc": "Ingreso mensual Lima Metropolitana (promedio movil 3 meses). Fuente original: INEI. Verificar unidad en BCRPData"
+    },
+    {
+      "slug": "precio-diesel-indice-real",
+      "code": "PN01441PM",
+      "desc": "Indice real de precio de petroleo diesel (2010=100). Verificar fuente original"
+    },
+    {
+      "slug": "tarifa-electrica-residencial-indice-real",
+      "code": "PN01444PM",
+      "desc": "Indice real de tarifa electrica residencial (2010=100). Verificar fuente original"
+    }
+  ]
+}

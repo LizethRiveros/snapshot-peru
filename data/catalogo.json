@@ -3,9 +3,9 @@
   "slug": "tipo-cambio-interbancario-venta",
   "code": "PD04638PD",
   "desc": "Tipo de cambio interbancario venta (S/ por US$), diario",
-  "filas": 9603,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "3.43928571428571"
+  "filas": 9604,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "3.43357142857143"
  },
  {
   "slug": "inflacion-lima-12m",
@@ -19,17 +19,17 @@
   "slug": "tasa-referencia-politica-monetaria",
   "code": "PD12301MD",
   "desc": "Tasa de referencia de la politica monetaria, diario",
-  "filas": 9603,
-  "ultima_fecha": "2026-10-20",
+  "filas": 9604,
+  "ultima_fecha": "2026-10-22",
   "ultimo_valor": "4.25"
  },
  {
   "slug": "reservas-internacionales-netas",
   "code": "PD04650MD",
   "desc": "Reservas internacionales netas (millones US$), diario",
-  "filas": 9603,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "96371.954121"
+  "filas": 9604,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "96754.53818488"
  },
  {
   "slug": "pbi-variacion-interanual",
@@ -43,7 +43,7 @@
   "slug": "cobre-londres",
   "code": "PD04701XD",
   "desc": "Cobre, Londres (cUS$ por libra), diario",
-  "filas": 9603,
+  "filas": 9604,
   "ultima_fecha": "2026-10-19",
   "ultimo_valor": "657.527506068386"
  },
@@ -51,7 +51,7 @@
   "slug": "oro-londres",
   "code": "PD04704XD",
   "desc": "Oro, Londres (US$ por onza troy), diario",
-  "filas": 9603,
+  "filas": 9604,
   "ultima_fecha": "2026-10-19",
   "ultimo_valor": "4140.72"
  },
@@ -59,7 +59,7 @@
   "slug": "plata-harman",
   "code": "PD04702XD",
   "desc": "Plata, H. Harman (US$ por onza troy), diario",
-  "filas": 9603,
+  "filas": 9604,
   "ultima_fecha": "2026-10-19",
   "ultimo_valor": "57.085"
  },
@@ -67,7 +67,7 @@
   "slug": "zinc-londres",
   "code": "PD04703XD",
   "desc": "Zinc, Londres (cUS$ por libra), diario",
-  "filas": 9603,
+  "filas": 9604,
   "ultima_fecha": "2026-10-19",
   "ultimo_valor": "171.276478900251"
  },
@@ -75,16 +75,16 @@
   "slug": "tipo-cambio-euro-venta",
   "code": "PD04648PD",
   "desc": "Tipo de cambio del euro, venta (S/ por euro), diario",
-  "filas": 9603,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "4.045"
+  "filas": 9604,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "3.871"
  },
  {
   "slug": "tasa-interbancaria-soles",
   "code": "PD04692MD",
   "desc": "Tasa de interes interbancaria en soles (%), diario",
-  "filas": 9603,
-  "ultima_fecha": "2026-10-19",
+  "filas": 9604,
+  "ultima_fecha": "2026-10-21",
   "ultimo_valor": "4.25"
  },
  {

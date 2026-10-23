@@ -3,7 +3,7 @@
   "slug": "tipo-cambio-interbancario-venta",
   "code": "PD04638PD",
   "desc": "Tipo de cambio interbancario venta (S/ por US$), diario",
-  "filas": 9604,
+  "filas": 9605,
   "ultima_fecha": "2026-10-21",
   "ultimo_valor": "3.43357142857143"
  },
@@ -19,7 +19,7 @@
   "slug": "tasa-referencia-politica-monetaria",
   "code": "PD12301MD",
   "desc": "Tasa de referencia de la politica monetaria, diario",
-  "filas": 9604,
+  "filas": 9605,
   "ultima_fecha": "2026-10-22",
   "ultimo_valor": "4.25"
  },
@@ -27,7 +27,7 @@
   "slug": "reservas-internacionales-netas",
   "code": "PD04650MD",
   "desc": "Reservas internacionales netas (millones US$), diario",
-  "filas": 9604,
+  "filas": 9605,
   "ultima_fecha": "2026-10-21",
   "ultimo_valor": "96754.53818488"
  },
@@ -35,47 +35,47 @@
   "slug": "pbi-variacion-interanual",
   "code": "PN01728AM",
   "desc": "PBI, variacion % interanual, mensual",
-  "filas": 379,
-  "ultima_fecha": "2026-07",
-  "ultimo_valor": "3.5592604174106"
+  "filas": 380,
+  "ultima_fecha": "2026-08",
+  "ultimo_valor": "3.23276441886908"
  },
  {
   "slug": "cobre-londres",
   "code": "PD04701XD",
   "desc": "Cobre, Londres (cUS$ por libra), diario",
-  "filas": 9604,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "657.527506068386"
+  "filas": 9605,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "655.032748008661"
  },
  {
   "slug": "oro-londres",
   "code": "PD04704XD",
   "desc": "Oro, Londres (US$ por onza troy), diario",
-  "filas": 9604,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "4140.72"
+  "filas": 9605,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "4140.74"
  },
  {
   "slug": "plata-harman",
   "code": "PD04702XD",
   "desc": "Plata, H. Harman (US$ por onza troy), diario",
-  "filas": 9604,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "57.085"
+  "filas": 9605,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "57.97"
  },
  {
   "slug": "zinc-londres",
   "code": "PD04703XD",
   "desc": "Zinc, Londres (cUS$ por libra), diario",
-  "filas": 9604,
-  "ultima_fecha": "2026-10-19",
-  "ultimo_valor": "171.276478900251"
+  "filas": 9605,
+  "ultima_fecha": "2026-10-21",
+  "ultimo_valor": "171.049682715267"
  },
  {
   "slug": "tipo-cambio-euro-venta",
   "code": "PD04648PD",
   "desc": "Tipo de cambio del euro, venta (S/ por euro), diario",
-  "filas": 9604,
+  "filas": 9605,
   "ultima_fecha": "2026-10-21",
   "ultimo_valor": "3.871"
  },
@@ -83,7 +83,7 @@
   "slug": "tasa-interbancaria-soles",
   "code": "PD04692MD",
   "desc": "Tasa de interes interbancaria en soles (%), diario",
-  "filas": 9604,
+  "filas": 9605,
   "ultima_fecha": "2026-10-21",
   "ultimo_valor": "4.25"
  },
@@ -91,9 +91,9 @@
   "slug": "desempleo-lima",
   "code": "PN38063GM",
   "desc": "Tasa de desempleo, Lima Metropolitana (%, promedio movil 3 meses), mensual",
-  "filas": 304,
-  "ultima_fecha": "2026-08",
-  "ultimo_valor": "4.80377918575145"
+  "filas": 305,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "4.37168029006711"
  },
  {
   "slug": "exportaciones-fob",
@@ -179,25 +179,25 @@
   "slug": "pea-lima-miles",
   "code": "PN38050GM",
   "desc": "PEA Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI",
-  "filas": 304,
-  "ultima_fecha": "2026-08",
-  "ultimo_valor": "6265.9"
+  "filas": 305,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "6288.2"
  },
  {
   "slug": "pea-ocupada-lima-miles",
   "code": "PN38051GM",
   "desc": "PEA ocupada Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI",
-  "filas": 304,
-  "ultima_fecha": "2026-08",
-  "ultimo_valor": "5964.9"
+  "filas": 305,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "6013.3"
  },
  {
   "slug": "ingreso-mensual-lima",
   "code": "PN38070GM",
   "desc": "Ingreso mensual Lima Metropolitana (promedio movil 3 meses). Fuente original: INEI. Verificar unidad en BCRPData",
-  "filas": 304,
-  "ultima_fecha": "2026-08",
-  "ultimo_valor": "2308.4"
+  "filas": 305,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "2302"
  },
  {
   "slug": "precio-diesel-indice-real",

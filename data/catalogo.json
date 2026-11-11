@@ -3,9 +3,9 @@
   "slug": "tipo-cambio-interbancario-venta",
   "code": "PD04638PD",
   "desc": "Tipo de cambio interbancario venta (S/ por US$), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-09",
-  "ultimo_valor": "3.41214285714286"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-10",
+  "ultimo_valor": "3.41621428571429"
  },
  {
   "slug": "inflacion-lima-12m",
@@ -19,17 +19,17 @@
   "slug": "tasa-referencia-politica-monetaria",
   "code": "PD12301MD",
   "desc": "Tasa de referencia de la politica monetaria, diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-10",
+  "filas": 9618,
+  "ultima_fecha": "2026-11-11",
   "ultimo_valor": "4.25"
  },
  {
   "slug": "reservas-internacionales-netas",
   "code": "PD04650MD",
   "desc": "Reservas internacionales netas (millones US$), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-09",
-  "ultimo_valor": "96668"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-10",
+  "ultimo_valor": "96645.4286094"
  },
  {
   "slug": "pbi-variacion-interanual",
@@ -43,49 +43,49 @@
   "slug": "cobre-londres",
   "code": "PD04701XD",
   "desc": "Cobre, Londres (cUS$ por libra), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-06",
-  "ultimo_valor": "632.98815860819"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-09",
+  "ultimo_valor": "636.390101416905"
  },
  {
   "slug": "oro-londres",
   "code": "PD04704XD",
   "desc": "Oro, Londres (US$ por onza troy), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-06",
-  "ultimo_valor": "4070.8"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-09",
+  "ultimo_valor": "4139.82"
  },
  {
   "slug": "plata-harman",
   "code": "PD04702XD",
   "desc": "Plata, H. Harman (US$ por onza troy), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-06",
-  "ultimo_valor": "51.873"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-09",
+  "ultimo_valor": "53.4099"
  },
  {
   "slug": "zinc-londres",
   "code": "PD04703XD",
   "desc": "Zinc, Londres (cUS$ por libra), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-06",
-  "ultimo_valor": "170.505371871304"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-09",
+  "ultimo_valor": "170.27857568632"
  },
  {
   "slug": "tipo-cambio-euro-venta",
   "code": "PD04648PD",
   "desc": "Tipo de cambio del euro, venta (S/ por euro), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-09",
-  "ultimo_valor": "4.021"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-10",
+  "ultimo_valor": "3.904"
  },
  {
   "slug": "tasa-interbancaria-soles",
   "code": "PD04692MD",
   "desc": "Tasa de interes interbancaria en soles (%), diario",
-  "filas": 9617,
-  "ultima_fecha": "2026-11-09",
-  "ultimo_valor": "4.3"
+  "filas": 9618,
+  "ultima_fecha": "2026-11-10",
+  "ultimo_valor": "4.25"
  },
  {
   "slug": "desempleo-lima",

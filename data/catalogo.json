@@ -3,7 +3,7 @@
   "slug": "tipo-cambio-interbancario-venta",
   "code": "PD04638PD",
   "desc": "Tipo de cambio interbancario venta (S/ por US$), diario",
-  "filas": 9624,
+  "filas": 9625,
   "ultima_fecha": "2026-11-18",
   "ultimo_valor": "3.43214285714286"
  },
@@ -19,31 +19,31 @@
   "slug": "tasa-referencia-politica-monetaria",
   "code": "PD12301MD",
   "desc": "Tasa de referencia de la politica monetaria, diario",
-  "filas": 9624,
-  "ultima_fecha": "2026-11-19",
+  "filas": 9625,
+  "ultima_fecha": "2026-11-20",
   "ultimo_valor": "4.5"
  },
  {
   "slug": "reservas-internacionales-netas",
   "code": "PD04650MD",
   "desc": "Reservas internacionales netas (millones US$), diario",
-  "filas": 9624,
-  "ultima_fecha": "2026-11-18",
-  "ultimo_valor": "100961.91989625"
+  "filas": 9625,
+  "ultima_fecha": "2026-11-19",
+  "ultimo_valor": "100504.26586268"
  },
  {
   "slug": "pbi-variacion-interanual",
   "code": "PN01728AM",
   "desc": "PBI, variacion % interanual, mensual",
-  "filas": 380,
-  "ultima_fecha": "2026-08",
-  "ultimo_valor": "3.23276441886908"
+  "filas": 381,
+  "ultima_fecha": "2026-09",
+  "ultimo_valor": "2.42898585225829"
  },
  {
   "slug": "cobre-londres",
   "code": "PD04701XD",
   "desc": "Cobre, Londres (cUS$ por libra), diario",
-  "filas": 9624,
+  "filas": 9625,
   "ultima_fecha": "2026-11-16",
   "ultimo_valor": "606.679800887463"
  },
@@ -51,7 +51,7 @@
   "slug": "oro-londres",
   "code": "PD04704XD",
   "desc": "Oro, Londres (US$ por onza troy), diario",
-  "filas": 9624,
+  "filas": 9625,
   "ultima_fecha": "2026-11-16",
   "ultimo_valor": "3856.46"
  },
@@ -59,7 +59,7 @@
   "slug": "plata-harman",
   "code": "PD04702XD",
   "desc": "Plata, H. Harman (US$ por onza troy), diario",
-  "filas": 9624,
+  "filas": 9625,
   "ultima_fecha": "2026-11-16",
   "ultimo_valor": "47.0149"
  },
@@ -67,7 +67,7 @@
   "slug": "zinc-londres",
   "code": "PD04703XD",
   "desc": "Zinc, Londres (cUS$ por libra), diario",
-  "filas": 9624,
+  "filas": 9625,
   "ultima_fecha": "2026-11-16",
   "ultimo_valor": "174.542343964027"
  },
@@ -75,7 +75,7 @@
   "slug": "tipo-cambio-euro-venta",
   "code": "PD04648PD",
   "desc": "Tipo de cambio del euro, venta (S/ por euro), diario",
-  "filas": 9624,
+  "filas": 9625,
   "ultima_fecha": "2026-11-18",
   "ultimo_valor": "3.763"
  },
@@ -83,17 +83,17 @@
   "slug": "tasa-interbancaria-soles",
   "code": "PD04692MD",
   "desc": "Tasa de interes interbancaria en soles (%), diario",
-  "filas": 9624,
-  "ultima_fecha": "2026-11-18",
+  "filas": 9625,
+  "ultima_fecha": "2026-11-19",
   "ultimo_valor": "4.5"
  },
  {
   "slug": "desempleo-lima",
   "code": "PN38063GM",
   "desc": "Tasa de desempleo, Lima Metropolitana (%, promedio movil 3 meses), mensual",
-  "filas": 305,
-  "ultima_fecha": "2026-09",
-  "ultimo_valor": "4.37168029006711"
+  "filas": 306,
+  "ultima_fecha": "2026-10",
+  "ultimo_valor": "4.35658841497016"
  },
  {
   "slug": "exportaciones-fob",
@@ -179,25 +179,25 @@
   "slug": "pea-lima-miles",
   "code": "PN38050GM",
   "desc": "PEA Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI",
-  "filas": 305,
-  "ultima_fecha": "2026-09",
-  "ultimo_valor": "6288.2"
+  "filas": 306,
+  "ultima_fecha": "2026-10",
+  "ultimo_valor": "6351.3"
  },
  {
   "slug": "pea-ocupada-lima-miles",
   "code": "PN38051GM",
   "desc": "PEA ocupada Lima Metropolitana (miles de personas, promedio movil 3 meses). Fuente original: INEI",
-  "filas": 305,
-  "ultima_fecha": "2026-09",
-  "ultimo_valor": "6013.3"
+  "filas": 306,
+  "ultima_fecha": "2026-10",
+  "ultimo_valor": "6074.6"
  },
  {
   "slug": "ingreso-mensual-lima",
   "code": "PN38070GM",
   "desc": "Ingreso mensual Lima Metropolitana (promedio movil 3 meses). Fuente original: INEI. Verificar unidad en BCRPData",
-  "filas": 305,
-  "ultima_fecha": "2026-09",
-  "ultimo_valor": "2302"
+  "filas": 306,
+  "ultima_fecha": "2026-10",
+  "ultimo_valor": "2322"
  },
  {
   "slug": "precio-diesel-indice-real",

@@ -4,8 +4,8 @@
   "code": "PD04638PD",
   "desc": "Tipo de cambio interbancario venta (S/ por US$), diario",
   "filas": 9625,
-  "ultima_fecha": "2026-11-18",
-  "ultimo_valor": "3.43214285714286"
+  "ultima_fecha": "2026-11-19",
+  "ultimo_valor": "3.44128571428571"
  },
  {
   "slug": "inflacion-lima-12m",
@@ -76,8 +76,8 @@
   "code": "PD04648PD",
   "desc": "Tipo de cambio del euro, venta (S/ por euro), diario",
   "filas": 9625,
-  "ultima_fecha": "2026-11-18",
-  "ultimo_valor": "3.763"
+  "ultima_fecha": "2026-11-19",
+  "ultimo_valor": "3.773"
  },
  {
   "slug": "tasa-interbancaria-soles",
